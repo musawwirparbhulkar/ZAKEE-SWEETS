@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-# Disallow any future /private/ paths
-Disallow: /private/
-
-Sitemap: https://zakeesweets.com/sitemap.xml
