@@ -1,0 +1,24 @@
+{
+  "name": "ZAKEE Sweets",
+  "short_name": "ZAKEE",
+  "description": "Premium handcrafted Indian mithai for every celebration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8EC",
+  "theme_color": "#5E1218",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "assets/img/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
